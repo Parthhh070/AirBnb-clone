@@ -5,6 +5,7 @@ Welcome to the Airbnb Clone project! This project is a replica of the popular Ai
 ## Table of Contents
 - [Features](#features)
 - [Live Demo](#live-demo)
+- [App Snapshots](#app-snapshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -19,6 +20,12 @@ Welcome to the Airbnb Clone project! This project is a replica of the popular Ai
 ## Live Demo
 Check out the live demo [here](https://wanderlust-mwss.onrender.com/listings). Please note that as this project is hosted on a free cloud service, there might be a delay in accessing the application.
 
+## App Snapshots
+
+![Screenshot 1](https://github.com/Parthhh070/AirBnb-clone/assets/130694139/afbfe916-6b25-4bf0-ab7a-db7581b3879c)
+
+![Screenshot 2](https://github.com/Parthhh070/AirBnb-clone/assets/130694139/253efd61-fe0e-491e-a58f-839688049f05)
+
 ## Getting Started
 
 ### Prerequisites
@@ -30,5 +37,5 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/airbnb-clone.git
+   git clone https://github.com/Parthhh070/AirBnb-clone.git
    cd airbnb-clone
