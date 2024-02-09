@@ -22,9 +22,10 @@ Check out the live demo [here](https://wanderlust-mwss.onrender.com/listings). P
 
 ## App Snapshots
 
-![Screenshot 1](https://github.com/Parthhh070/AirBnb-clone/assets/130694139/afbfe916-6b25-4bf0-ab7a-db7581b3879c)
+![Screenshot 2024-02-09 215718](https://github.com/Parthhh070/AirBnb-clone/assets/130694139/2d75a217-56a5-4259-af67-1a0c357685f3)
 
-![Screenshot 2](https://github.com/Parthhh070/AirBnb-clone/assets/130694139/253efd61-fe0e-491e-a58f-839688049f05)
+![Screenshot 2024-02-09 215736](https://github.com/Parthhh070/AirBnb-clone/assets/130694139/38375cd5-c660-43dc-ae49-45be52c0b0de)
+
 
 ## Getting Started
 
